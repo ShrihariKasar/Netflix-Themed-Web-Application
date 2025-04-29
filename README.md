@@ -81,8 +81,12 @@ http://localhost/netflix/index.php
 ---
 
 ## 📸 Screenshots
-
-> Add screenshots here showing the movie grid, add/edit forms, etc.
+### Homepage
+> ![Homepage Screenshot](https://github.com/ShrihariKasar/Netflix-Themed-Web-Application/blob/main/RESULTS/Screenshot%20(143).png)
+### Movie adding Page
+> ![Movie Adding Page Screenshot](https://github.com/ShrihariKasar/Netflix-Themed-Web-Application/blob/main/RESULTS/Screenshot%20(144).png)
+### Homepage
+> ![Homepage Screenshot](https://github.com/ShrihariKasar/Netflix-Themed-Web-Application/blob/main/RESULTS/Screenshot%20(145).png)
 
 ---
 
